@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "./CMU-MultimodalSDK-master"
+    ],
+    "git.ignoreLimitWarning": true
+}
